@@ -25,9 +25,9 @@
   
 ### ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ ᴛᴏ ᴘʟᴀʏ sᴏɴɢs ɪɴ ᴠᴏɪᴄᴇ ᴄʜᴀᴛs
   
-[![Support Channel](https://img.shields.io/badge/Support%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/ShrutiBots)
-[![Support Group](https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000)](https://t.me/ShrutiBotSupport)
-[![Owner](https://img.shields.io/badge/Owner-FFFF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=8A2BE2)](https://t.me/WTF_WhyMeeh)
+[![Support Channel](https://img.shields.io/badge/Support%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/hacker_lnk)
+[![Support Group](https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000)](https://t.me/elite_feds)
+[![Owner](https://img.shields.io/badge/Owner-FFFF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=8A2BE2)](https://t.me/shadow_boosterr)
 
 [![Forks](https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF1493&color=00CED1)](https://github.com/NoxxOP/ShrutiMusic/fork)
 [![Stars](https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF4500&color=32CD32)](https://github.com/NoxxOP/ShrutiMusic/stargazers)
@@ -46,7 +46,7 @@
 <td align="center" width="33%">
 
 ### 🔥 **ʜᴇʀᴏᴋᴜ**
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/elite_feds">
 <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-FF0080?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000080" width="220px">
 </a>
 
